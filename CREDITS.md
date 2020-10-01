@@ -6,8 +6,8 @@ Credits
   title={First Order Motion Model for Image Animation},
   booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
   month = {December},
-  year = {2019},
-  url          = {https://github.com/AliaksandrSiarohin/first-order-model}
+  year = {2020;},
+  url;            = {https://github.com/AliaksandrSiarohin/first-order-model}
 }
 ```
 - Original Project
